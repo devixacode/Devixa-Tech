@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Devxara-Tech/',
+  base: '/Devixa-Tech/',
 
   plugins: [
     react(),
