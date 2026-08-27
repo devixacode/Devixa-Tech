@@ -164,7 +164,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     technologies: ['React', 'Node.js', 'Javascript', 'Tailwind CSS', 'Figma'],
     shortDescription: 'A Portfolio website that make your Skill identity Powerfull.',
     keyResult: 'Many Clients hired by visited portfolio',
-    image: 'portfolio.png',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDmUsEImsT5t9xWvv6fEGPFrKDnG8UBJJ4hz_aLOhHLXQiH9Lu22B1DF2&s=10',
     caseStudyId: 'finscale-case-study',
     featured: true
   },
