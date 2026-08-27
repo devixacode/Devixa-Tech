@@ -157,14 +157,14 @@ export const WHY_DEVIXA_POINTS = [
 export const PORTFOLIO_PROJECTS: ProjectItem[] = [
   {
     id: 'finscale-portal',
-    name: 'FinScale Enterprise Dashboard',
+    name: 'Portfolio Website',
     client: 'FinScale Global Ltd.',
-    industry: 'Finance & Fintech',
+    industry: 'Software Development',
     servicesProvided: ['Custom Software Development', 'UI/UX Design', 'API Integrations'],
-    technologies: ['React', 'Node.js', 'PostgreSQL', 'Tailwind CSS', 'Figma'],
-    shortDescription: 'A unified financial analytics platform and real-time transaction reconciliation dashboard for international treasury teams.',
-    keyResult: 'Reduced daily transaction reconciliation time by 68% and automated reporting across 8 currencies.',
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
+    technologies: ['React', 'Node.js', 'Javascript', 'Tailwind CSS', 'Figma'],
+    shortDescription: 'A Portfolio website that make your Skill identity Powerfull.',
+    keyResult: 'Many Clients hired by visited portfolio',
+    image: 'portfolio.png',
     caseStudyId: 'finscale-case-study',
     featured: true
   },
